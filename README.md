@@ -1,28 +1,115 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nived G
-================================================================================================================================
+<div align="center">
 
-Computer Science and Software Development
------------------------------------------
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · gnived07</sub></p>
+<h1>Nived G</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-A person trying to learn programming by building things, breaking things, and figuring out how to fix them.
+<p><a href="https://github.com/gnived07">GitHub</a> &nbsp;·&nbsp; <a href="https://gnived07.github.io/portfolio_2/">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/242767867?v=4" width="180" alt="Nived G GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [gnived07@gmail.com](mailto:gnived07@gmail.com)
-* 🧠  I'm currently learning AI/ML and Full Stack Development
-* 👥  I'm looking to collaborate on anything that helps me learn and upskill.
-* 💬  trying to be better everyday
+<h2>What teams can evaluate quickly</h2>
 
-<p align="left">
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · HTML · JavaScript · Dart</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>8 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>76 contributions · 20 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Building useful software and sharing the work in public.</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>8</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>76</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=gnived07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242767867%3Fv%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=gnived07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242767867%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Nived G GitHub proof metrics" />
+</picture>
 </p>
 
-### Socials
+<h2>Selected work</h2>
 
-<p align="left"> <a href="https://www.github.com/gnived07" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-### Badges
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=gnived07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242767867%3Fv%3D4&repos=gnived07%2Fportfolio_2%2Cgnived07%2Fportfolio%2Cgnived07%2Fgnived07%2Cgnived07%2FEcommerce-React&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=gnived07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242767867%3Fv%3D4&repos=gnived07%2Fportfolio_2%2Cgnived07%2Fportfolio%2Cgnived07%2Fgnived07%2Cgnived07%2FEcommerce-React&v=recruiter-projects-1&mode=dark" width="100%" alt="Nived G selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/gnived07/portfolio_2">portfolio_2</a></h3>
+<p>A selected public project.</p>
+<p><sub>HTML · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/gnived07/portfolio_2">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-<b>My GitHub Stats</b>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/gnived07/portfolio">portfolio</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/gnived07/gnived07">gnived07</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/gnived07/Ecommerce-React">Ecommerce-React</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-<a href="http://www.github.com/gnived07"><img src="https://github-readme-stats.vercel.app/api?username=gnived07&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gnived07's GitHub stats" /></a>
+<h2>Technical toolkit</h2>
 
-<a href="http://www.github.com/gnived07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gnived07&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=gnived07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242767867%3Fv%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=gnived07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242767867%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Nived G technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>29% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>29% of public code</sub></td>
+<td width="20%" align="center"><strong>Dart</strong><br /><sub>15% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>12% of public code</sub></td>
+<td width="20%" align="center"><strong>C++</strong><br /><sub>6% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=gnived07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242767867%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=gnived07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F242767867%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Nived G contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/gnived07">GitHub</a><br /><a href="https://gnived07.github.io/portfolio_2/">Website</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Nived G · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
